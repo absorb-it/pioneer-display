@@ -8,7 +8,7 @@ And at the end you might add some buttons, use the [remote control hack as descr
 
 
 ***
-The library will mirror the display, below is an image of nearly all display items light up (the original radio display) and the selfmade external controller beside.
+The library will mirror the display one to one. Below is an image of the pioneer car hifi with nearly all display items light up (it was used to figure out what is possible at all) and the selfmade external controller beside during a different time (with some remote control buttons and the mirrored display part below).
 
 ![Pioneer Radio][pioneer]
 ![Pioneer Remote Display][pioneer_remote]
