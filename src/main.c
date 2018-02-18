@@ -43,5 +43,7 @@ int main(void)
       HAL_SPI_DMAResume(&hspi2);
     else
       HAL_SPI_DMAPause(&hspi2);
+    
+    deh7800_showDisplay(0, 172, RGB(255,0,0), RGB(0,255,0), RGB(255,255,0), RGB(30, 30, 0), RGB(255, 255, 0), RGB(255, 255, 0));
   }
 }
